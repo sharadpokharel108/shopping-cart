@@ -1,0 +1,12 @@
+site_name: Shopping Cart App
+site_url: https://your-github-repository-link
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
